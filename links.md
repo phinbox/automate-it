@@ -1,6 +1,6 @@
 # Relevant Links
 
-[JNUC 2021 Presentation]:(https://reg.jamf.com/flow/jamf/jnuc2021/virtualhome/page/sessioncatalog/session/1624561163020001bwPb)
+* [JNUC 2021 Presentation]:(https://reg.jamf.com/flow/jamf/jnuc2021/virtualhome/page/sessioncatalog/session/1624561163020001bwPb)
 
 Here is a list the tools that were mentioned and leveraged in our presentation.
 
